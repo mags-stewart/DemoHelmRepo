@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ourvchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-30T14:49:30.8273471+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0750b65a9de19ebfd2d6cd3da2796c076dac3cfbcf5e7d58a231d80f5c2c080e
+    name: ourvchart
+    type: application
+    urls:
+    - ourvchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-30T14:49:30.8259658+01:00"
